@@ -2,5 +2,5 @@
 - 👀 I’m interested in cybersecurity and informatic in general
 - 🌱 I’m currently learning cybersecurity
 - 💼 Currently working for CBM Informatic (Belgium)
-- 📫 How to reach me : Mail : floris050103@gmail.com
+- 📫 How to reach me : Mail : floris@cbmit.be
 
